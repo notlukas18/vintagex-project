@@ -1,0 +1,13 @@
+<resources>
+    <!-- Define color resources here -->
+    <color name="background_color">#F5ECD5</color>
+    <color name="primary_text_color">#6F593D</color>
+    <color name="secondary_text_color">#6D6D6D</color>
+    <color name="accent_color">#000000</color>
+    <color name="button_color">#A57A44</color>
+    <color name="search_bar_background">#FFFFFF</color>
+    <color name="error_color">#FF0000</color>
+    <color name="bottom_nav_text_color">#A57A44</color> <!-- Use your desired color code -->
+    <color name="bottom_nav_icon_color">#A57A44</color> <!-- Use your desired color code -->
+
+</resources>

@@ -1,0 +1,46 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Vintage Haven</string>
+
+    <!-- Common Strings -->
+    <string name="back_button">Back</string>
+    <string name="product_image">Product Image</string>
+    <string name="search_hint">Search for vintage treasures: retro tech, furniture, clothing, and more...</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Home Screen -->
+    <string name="app_title">Vintage Haven</string>
+    <string name="banner_text">Unlock the Beauty of Vintage: Unique Items for Every Lifestyle</string>
+
+    <!-- Error Messages -->
+    <string name="error_loading_data">Error loading data. Please try again later.</string>
+    <string name="network_error">Network error. Check your internet connection and try again.</string>
+
+    <!-- Bottom Navigation Labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_cart">Cart</string>
+    <string name="nav_account">Account</string>
+
+    <!-- Account Screen -->
+    <string name="greeting_text">Glad to have you with us, %1$s 🤎</string> <!-- %1$s will be replaced by user's name -->
+    <string name="user_name_placeholder">John Doe</string>
+    <string name="user_phone_placeholder">+01 112 xxx xxx</string>
+
+    <!-- Cart Screen -->
+    <string name="cart_empty">Your cart is empty.</string>
+    <string name="cart_item_quantity">Quantity: %1$d</string> <!-- %1$d will be replaced by the quantity number -->
+    <string name="cart_total_price">Total: $%1$.2f</string> <!-- %1$.2f will be replaced by the total price -->
+
+    <!-- Product Details -->
+    <string name="product_price">Price: $%1$.2f</string> <!-- %1$.2f will be replaced by the product price -->
+    <string name="product_description">Description</string>
+    <string name="product_image_description">This is an image of the product.</string> <!-- New string added -->
+
+    <!-- Quantity Buttons -->
+    <string name="decrease_quantity">-</string> <!-- New string for decrease button -->
+    <string name="increase_quantity">+</string> <!-- New string for increase button -->
+
+    <!-- Buttons -->
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="checkout">Checkout</string>
+</resources>
