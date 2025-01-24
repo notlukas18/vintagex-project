@@ -1,7 +1,8 @@
 ### **📦 Vintage Haven**  
 *A small-scale online marketplace for vintage and handmade products.*  
 
-![Vintage Haven Banner](https://via.placeholder.com/1000x300.png?text=Vintage+Haven)  
+![VHlogoLarge](https://github.com/user-attachments/assets/d1864a09-9b52-4b19-b712-9eb19778fce0)
+
 
 ---
 
