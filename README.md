@@ -3,7 +3,6 @@
 
 ![VHlogoLarge](https://github.com/user-attachments/assets/d1864a09-9b52-4b19-b712-9eb19778fce0)
 
-
 ---
 
 ## **📜 About**  
@@ -29,7 +28,8 @@ Vintage Haven is an Android app designed for selling and buying vintage and hand
 ## **📷 Screenshots**  
 | Home Screen | Product Page | Cart |  
 |------------|-------------|------|  
-| ![Home](https://via.placeholder.com/200) | ![Product](https://via.placeholder.com/200) | ![Cart](https://via.placeholder.com/200) |  
+|![home page](https://github.com/user-attachments/assets/9e49e37d-16bf-4a57-826f-e35aaa59c011)
+|![PRODUCT DETAIL](https://github.com/user-attachments/assets/2296a2fc-e25f-4d86-b911-8a20e962585f)|![cart ](https://github.com/user-attachments/assets/759b99f0-23f6-48bc-8aee-0589fed24817) 
 
 ---
 
