@@ -35,7 +35,7 @@ Vintage Haven is an Android app designed for selling and buying vintage and hand
 ## **📦 Installation**  
 Clone the repository:  
 ```sh
-git clone https://github.com/notlukas18/vintagehaven.git
+git clone https://github.com/notlukas18/vintagex-project
 ```
 Open in **Android Studio**, sync dependencies, and run the app! 🎉  
 
